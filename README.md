@@ -20,6 +20,6 @@ My projects mainly revolve around the coursework from my university studies. Eac
 
 ## Get in Touch 📫
 
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/botond-kov%C3%A1cs-93589723a/)
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/botond-kov%C3%A1cs-93589723a)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Let's connect and build something amazing together. 😊
