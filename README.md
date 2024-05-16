@@ -5,7 +5,7 @@ I'm an enthusiast data scientist with a passion for exploring the world of machi
 ## About Me ℹ️
 
 - 🎓 Bachelor's in Mathematics
-- 💻 Python fanatic
+- 🐍 Python fanatic
 - 📊 Interested in Machine Learning and Natural Language Processing
 - 📚 Currently pursuing MSc in Data Science at the University of Vienna
 
